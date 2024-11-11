@@ -1,4 +1,4 @@
-package com.abhay;
+package com.musicplayer;
 
 import java.util.ArrayList;
 import java.util.LinkedList;
